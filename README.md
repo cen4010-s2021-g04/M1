@@ -219,22 +219,22 @@ Each team submits one single word document with all the above required sections 
 # 12.Grading criteria
 Your document needs to be well-written, well-organized (formatted) and reads well.  Grading is based on cohesiveness and completeness.
 
-&nbsp;&nbsp;&nbsp;1) Executive Summary					                             10 points
+&nbsp;&nbsp;&nbsp;1) Executive Summary10 points
 
-&nbsp;&nbsp;&nbsp;2) Competitive analysis				                          	10 points	
+&nbsp;&nbsp;&nbsp;2) Competitive analysis10 points	
 
-&nbsp;&nbsp;&nbsp;3) Data definition					                               10 points	
+&nbsp;&nbsp;&nbsp;3) Data definition10 points	
 
-&nbsp;&nbsp;&nbsp;4) Overview, scenarios and use cases			               10 points
+&nbsp;&nbsp;&nbsp;4) Overview, scenarios and use cases10 points
 
-&nbsp;&nbsp;&nbsp;5) Initial list of high-level functional requirements	10 points
+&nbsp;&nbsp;&nbsp;5) Initial list of high-level functional requirements&nbsp;&nbsp;&nbsp;10 points
 
-&nbsp;&nbsp;&nbsp;6) List of non-functional requirements		              10 points
+&nbsp;&nbsp;&nbsp;6) List of non-functional requirements&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
 
-&nbsp;&nbsp;&nbsp;7) High-level system architecture			                  10 points
+&nbsp;&nbsp;&nbsp;7) High-level system architecture10 points
 
-&nbsp;&nbsp;&nbsp;8) Team and checklist					                            10 points
+&nbsp;&nbsp;&nbsp;8) Team and checklist10 points
 
-&nbsp;&nbsp;&nbsp;9) Working with GitHub				                            10 points	
+&nbsp;&nbsp;&nbsp;9) Working with GitHub10 points	
 
-&nbsp;&nbsp;&nbsp;10) Deliverable						                                 10 points
+&nbsp;&nbsp;&nbsp;10) Deliverable10 points
