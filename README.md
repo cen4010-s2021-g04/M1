@@ -181,13 +181,13 @@ For each item below you must answer with only one of the following: DONE, ON TRA
 
 &nbsp;&nbsp;&nbsp;-c)Front and back end team leads chosen: DONE
 
-&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;-Frontend: Mayte Ramirez-Calderon
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Frontend: Mayte Ramirez-Calderon
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Backend: Leon Rice III
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Backend: Leon Rice III
 
 &nbsp;&nbsp;&nbsp;-d)Github master chosen: DONE
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Gianluca Guagliardo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Gianluca Guagliardo
 
 &nbsp;&nbsp;&nbsp;-e)Team ready and able to use the chosen back and front-end frameworks: DONE
 
