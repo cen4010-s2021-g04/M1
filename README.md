@@ -1,9 +1,6 @@
 <h1>Milestone 1: Team Project Proposal and Description</h1>
 
 ## 1. Executive Summary
-- Test
-- Another test
-- Final test 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the current times, we wanted to create an app that will help people feel connected even during these socially distanced times. Calendar Connect is a personalized web app that can be tailored to the needs of each individual user.
 
@@ -180,25 +177,23 @@ Initial Roles:
 # 9. Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
 
-&nbsp;&nbsp;&nbsp;a)Team decided on basic means of communications: DONE
+- [x] a) Team decided on basic means of communications: DONE
 
-&nbsp;&nbsp;&nbsp;b)Team found a time slot to meet outside of the class: DONE
+- [x] b) Team found a time slot to meet outside of the class: DONE
 
-&nbsp;&nbsp;&nbsp;c)Front and back end team leads chosen: DONE
+- [x] c) Front and back end team leads chosen: DONE
+   - Frontend: Mayte Ramirez-Calderon
+   - Backend: Leon Rice III
+   
+- [x] d) Github master chosen: DONE
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Frontend: Mayte Ramirez-Calderon
+   - Gianluca Guagliardo
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Backend: Leon Rice III
+- [x] e) Team ready and able to use the chosen back and front-end frameworks: DONE
 
-&nbsp;&nbsp;&nbsp;d)Github master chosen: DONE
+- [x] f) Skills of each team member defined and known to all: DONE
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gianluca Guagliardo
-
-&nbsp;&nbsp;&nbsp;e)Team ready and able to use the chosen back and front-end frameworks: DONE
-
-&nbsp;&nbsp;&nbsp;f)Skills of each team member defined and known to all: DONE
-
-&nbsp;&nbsp;&nbsp;g)Team lead ensured that all team members read the final M1 and agree/understand it before submission: DONE
+- [x] g) Team lead ensured that all team members read the final M1 and agree/understand it before submission: DONE
 
 # 10. Tasks before submission
 
