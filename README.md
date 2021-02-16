@@ -175,21 +175,21 @@ Initial Roles:
 # 9.Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
 
-&nbsp;&nbsp;&nbsp; a)Team decided on basic means of communications: DONE
+&nbsp;&nbsp;&nbsp;-a)Team decided on basic means of communications: DONE
 
-&nbsp;&nbsp;&nbsp;b)Team found a time slot to meet outside of the class: DONE
+&nbsp;&nbsp;&nbsp;-b)Team found a time slot to meet outside of the class: DONE
 
-&nbsp;&nbsp;&nbsp;c)Front and back end team leads chosen: DONE
+&nbsp;&nbsp;&nbsp;-c)Front and back end team leads chosen: DONE
 
 &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;-Frontend: Mayte Ramirez-Calderon
 
-&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;-Backend: Leon Rice III
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Backend: Leon Rice III
 
-&nbsp;&nbsp;&nbsp;d)Github master chosen: DONE
+&nbsp;&nbsp;&nbsp;-d)Github master chosen: DONE
 
-&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;-Gianluca Guagliardo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Gianluca Guagliardo
 
-&nbsp;&nbsp;&nbsp;e)Team ready and able to use the chosen back and front-end frameworks: DONE
+&nbsp;&nbsp;&nbsp;-e)Team ready and able to use the chosen back and front-end frameworks: DONE
 
 &nbsp;&nbsp;&nbsp;d)Skills of each team member defined and known to all: DONE
 
