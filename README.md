@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-Given the current times, we wanted to create an app that will help people feel connected even during these socially distanced times. Calendar Connect is a personalized web app that can be tailored to the needs of each individual user.
+Given the current times, we wanted to create an app that will help people feel connected even during these socially distanced times. CalendarConnect is a personalized web app that can be tailored to the needs of each individual user.
 
 The main focus of CalendarConnect is to allow people to stay connected with their friends, family, coworkers, and loved ones. Our app integrates a person’s schedule and allows them to share and connect with others to provide a clear visual of people’s availability. Our user-friendly dashboard can be customized and organized to the user’s needs and includes features such as to-do lists, groups, favorites, upcoming events, messages, alerts, and more! CalendarConnect allows users to create groups to share calendars with so you can maintain connection between family members, friend groups, school peers, or work colleagues. Our integration of pictures throughout your calendar month and year allows the app to become more personalized and for users to have fun and express themselves creatively. When you have an upcoming class, meeting, study session, or need some time alone, CalendarConnect can relay that to others to make sure you are not interrupted. On the other hand, when you are looking for free time within a group to spend some time together, whether virtually or in-person, CalendarConnect does the work of finding free time for the users so they can focus on planning and enjoying the time together.
 
