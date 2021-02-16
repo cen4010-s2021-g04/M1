@@ -214,7 +214,7 @@ Each team submits one single word document with all the above required sections 
 
 &nbsp;&nbsp;&nbsp; f)&nbsp;Documentation Date
 
-&nbsp;&nbsp;&nbsp; g)&nbsp;History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)
+&nbsp;&nbsp;&nbsp; <pre> g) History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)</pre>
 
 # 12.Grading criteria
 Your document needs to be well-written, well-organized (formatted) and reads well.  Grading is based on cohesiveness and completeness.
@@ -243,4 +243,4 @@ Your document needs to be well-written, well-organized (formatted) and reads wel
 
 </p>
 
-
+<h1> hey </h1>
