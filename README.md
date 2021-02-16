@@ -8,7 +8,7 @@ The main focus of Calendar Connect is to allow people to stay connected with the
 
 Unlike most apps that are tailored specifically for just work, school, or businesses, Calendar Connect offers a large reachability that can be used by everyone for all sorts of needs. Calendar Connect’s integration allows users to customize their features to fit their needs either for school, work, personal life, or all of the above.
 
-# 2. Competitive analysis
+## 2. Competitive analysis
 
 | Google Workspace  | Calendar.com | CalendarConnect (Us) |
 | ------------- | ------------- | ------------- |
@@ -21,7 +21,7 @@ Unlike most apps that are tailored specifically for just work, school, or busine
 
 Unlike most of our competitors, who are focused on enhancing the scheduling of business operations, our product will be more gauged more towards the general public and working adults.
 
-# 3. Data definition
+## 3. Data definition
 
 **Database elements**: id, name, email, phone number, dob, password, registration date
 
@@ -41,7 +41,7 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 
 **Widget Children**: Calendar (cannot de deleted)/Note/Weather/Messages/Contacts/Favorites/Photo slideshow/time/ widget: children of the widget class
 
-# 4.Overview, scenarios and use cases
+## 4. Overview, scenarios and use cases
 
 During these socially distanced times, many people still continue to balance their work life with school, extracurricular activities, meetings, hobbies, etc. and have found it difficult to still feel close and communicate with their friends, family, and loved ones. With differing schedules, meetings, and a global pandemic, keeping track of one’s free time as well as others can be difficult. With Calendar Connect, users can input their schedules from work, school, and everything in between into a single app and connect with their friends, family, and loved ones to share and view their schedules.
 
@@ -51,7 +51,7 @@ A beneficial and key feature Calendar Connect offers is the ability to create gr
 
 For users who enjoy expressing their creativity and personalizing their calendars, Calendar Connect allows users to input pictures as memories for certain events or days to allow users to free up space on their personal devices while being able to look back at their week, month, or even year in pictures. Because Calendar Connect offers the ability to create groups, users can have memories on their personal calendar while also including separate memories in their group calendars with friends, families, peers, or coworkers. 
 
-# 5. Initial list of high-level functional requirements
+## 5. Initial list of high-level functional requirements
 
 **Connects people during social distancing**:
 
@@ -87,7 +87,7 @@ Capability to synchronize the calendars
 
 - Unlike the Outlook calendar or other comparable software that is geared toward work or professional use, our web app is meant for users of all ages and for any purpose that can connect people together!
 
-# 6. List of non-functional requirements
+## 6. List of non-functional requirements
 For example, performance, usability, accessibility, expected load, security requirements, storage, availability, fault tolerance etc.  Number each. When possible, try to quantify these quality attributes.
 
 **Usability**:
@@ -135,7 +135,7 @@ For example, performance, usability, accessibility, expected load, security requ
 
 - Reliable and predictable behavior
 
-# 7. High-level system architecture:
+## 7. High-level system architecture:
 
 **Languages**: CSS, Html, JavaScript, jQuery, json, ajax, MySQL
 
@@ -151,7 +151,7 @@ All external code you plan to use must be listed along with their license. (Subj
 
 **Font Awesome**: https://fontawesome.com/license/free
 
-# 8. Team
+## 8. Team
 
 Group Name: Alpha Tech
 
@@ -171,7 +171,7 @@ Initial Roles:
 
 - Leon Rice III (Dev Team/Backend Lead)
 
-# 9. Checklist
+## 9. Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
 
 - [x] a) Team decided on basic means of communications: DONE
