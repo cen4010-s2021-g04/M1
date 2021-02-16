@@ -1,6 +1,4 @@
-<p align="center">
- Milestone 1: Team Project Proposal and Description
-</p>
+<h1>Milestone 1: Team Project Proposal and Description</h1>
 
 ## 1.Executive Summary
 
