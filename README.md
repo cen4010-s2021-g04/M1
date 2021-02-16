@@ -1,4 +1,8 @@
-# 1.Executive Summary
+<p align="center">
+ Milestone 1: Team Project Proposal and Description
+</p>
+
+## 1.Executive Summary
 
 **Given the current times, we wanted to create an app that will help people feel connected even during these socially distanced times. Calendar Connect is a personalized web app that can be tailored to the needs of each individual user.**
 
