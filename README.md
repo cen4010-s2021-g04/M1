@@ -95,60 +95,81 @@ For example, performance, usability, accessibility, expected load, security requ
 
 **Usability:**
 
--Must have color blind mode, and dark mode for customizability and user    necessity.(colors customizable)
+-Must have color blind mode, and dark mode for customizability and user necessity.(colors customizable)
+
 -Buttons must be large enough for users of all ages.(customizable)
+
 -Calendars will also be customizable for user comfort.(size, color, location)
+
 -Text will be customizable.
 
 **Reliability / Availability:**
 
 -Stable website, no bugs or crashes
 -Website cannot crash from too many users online at once(sometimes its unavoidable)
+
 -In case of outage there will be back-up generators to give time to inform the users of an outage and estimated server downtime.
+
 -Servers will be owned and accessible by CalendarConnect to ensure upkeep and uptime.
 
 **Performance:**
 
 -Quick response time, low MS latency on clicks.
+
 -Smooth transitions(low MS and reactive movements)
+
 -When pinging a user, the ping should be near instant.(notification, calendar requests, etc)
+
 -Functional buttons, users should not have to click more than once to access anything on CalendarConnect. (hitboxes)
 
 **Supportability:**
 
 -Will have support for android and IOS (down the line)
+
 -CalendarConnect will have an email that will allow customers to send their perspectives to the company. This will allow for the Devs to make changes accordingly.
+
 -CalendarConnect will have a short informational video explaining how to use the website/app and its features.
 
 **Security:**
 
 -Highly maintained security measures, especially since CalendarConnect deals with personal information such as locations and schedules.
+
 -Cloud and physical user information must also be protected at all times. Security measures involving these will move quickly and secretly.
+
 -Reliable and predictable behavior
 
 # 7.High-level system architecture:
 
-Lists of main software products, tools, languages and systems to be used, list of core APIs available at this point, supported browsers etc. 
-You also have to decide on which frameworks you will use if any. These provide both user interface, as well as cross-platform and cross browser layout/css. All external code you plan to use must be listed along with their license.
-Gianluca Guagliardo(FEEL FREE TO MAKE CHANGES):
-Languages : CSS, Html, JavaScript, jQuery, json, ajax, MySQL
-API: Open Weather API, Google Calendar API, Outlook API, iCloud API, Nylas API (potentially)
-Browsers: Chrome, Edge, Opera, Safari, Mozilla Firefox, and Android “Internet”.(any other relevant browsers?)
-Frameworks: React.js, MongoDB (potentially), FullCalendar.js (potentially)
-/
-All external code you plan to use must be listed along with their license. (GOES HERE)/
+**Languages:** CSS, Html, JavaScript, jQuery, json, ajax, MySQL
+
+**API:** Open Weather API, Google Calendar API, Outlook API, iCloud API, Nylas API (potentially)
+
+**Browsers:** Chrome, Edge, Opera, Safari, Mozilla Firefox, and Android “Internet”.
+
+**Frameworks:** React.js, MongoDB (potentially), FullCalendar.js (potentially)
+
+All external code you plan to use must be listed along with their license.
+
 # 8.Team
-List student group names, name of Scrum master, product owner and initial roles for each member
 
 Group Name: Alpha Tech
+
 Scrum Master:  Gianluca Guagliardo Leon Rice III
+
 Product Owner: Leon Rice III
+
 Initial Roles:
-Charlton Benting (Dev Team/Backend)
-Gianluca Guagliardo (Dev Team/Backend)
-Hendrein Paul (Dev Team/Frontend)
-Mayte Ramirez-Calderon (Dev Team/Frontend)
-Leon Rice III (Dev Team/Backend)
+
+$nbsp;$nbsp;$nbsp;-Charlton Benting (Dev Team/Backend)
+
+$nbsp;$nbsp;$nbsp;-Gianluca Guagliardo (Dev Team/Backend)
+
+$nbsp;$nbsp;$nbsp;-Hendrein Paul (Dev Team/Frontend)
+
+$nbsp;$nbsp;$nbsp;-Mayte Ramirez-Calderon (Dev Team/Frontend)
+
+$nbsp;$nbsp;$nbsp;-Leon Rice III (Dev Team/Backend)
+
 # 9.Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
 Team decided on basic means of communications: DONE
