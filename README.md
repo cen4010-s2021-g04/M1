@@ -196,40 +196,36 @@ For each item below you must answer with only one of the following: DONE, ON TRA
 &nbsp;&nbsp;&nbsp;G)Team lead ensured that all team members read the final M1 and agree/understand it before submission: DONE
 
 # 10.Tasks before submission
-Each team submits one single word document with all the above required sections to Canvas by the due date.  Must have a title page to your document, including:
 
-&nbsp;&nbsp;&nbsp;A)Course Title and term: CEN 4010 Principles of Software Engineering, Semester and Year
-
-&nbsp;&nbsp;&nbsp;B)Document name: Milestone 1 Project Proposal and High-level description
-
-&nbsp;&nbsp;&nbsp;C)Your team name, and project name (you can use the name you chose for your team)
-
-&nbsp;&nbsp;&nbsp;D)Team number (I will assign you one)
-
-&nbsp;&nbsp;&nbsp;E)Names of students (team lead first) with names and emails
-
-&nbsp;&nbsp;&nbsp;F)Documentation Date
-
-&nbsp;&nbsp;&nbsp;G)History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)
+Teams must collaborate in creating an M1 document by having a working M1 document on their team GitHub repository (similar to managing code) so all team members can access it. Added advantage of doing it this way is that it builds teamwork and communication. We recommend having a folder for project documentation on the team's GitHub where milestones and other similar files can be kept.
 
 # 11.Submission 
 Each team submits one single word document with all the above required sections to Canvas by the due date.  Must have a title page to your document, including:
-Course Title and term: CEN 4010 Principles of Software Engineering, Semester and Year
-Document name: Milestone 1 Project Proposal and High-level description
-Your team name, and project name (you can use the name you chose for your team)
-Team number (I will assign you one)
-Names of students (team lead first) with names and emails
-Documentation Date
-History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)
+
+&nbsp;&nbsp;&nbsp; A)Course Title and term: CEN 4010 Principles of Software Engineering, Semester and Year
+
+&nbsp;&nbsp;&nbsp; B)Document name: Milestone 1 Project Proposal and High-level description
+
+&nbsp;&nbsp;&nbsp; C)Your team name, and project name (you can use the name you chose for your team)
+
+&nbsp;&nbsp;&nbsp; D)Team number (I will assign you one)
+
+&nbsp;&nbsp;&nbsp; E)Names of students (team lead first) with names and emails
+
+&nbsp;&nbsp;&nbsp; F)Documentation Date
+
+&nbsp;&nbsp;&nbsp; G)History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)
+
 # 12.Grading criteria
 Your document needs to be well-written, well-organized (formatted) and reads well.  Grading is based on cohesiveness and completeness.
-Executive Summary					10 points
-Competitive analysis					10 points	
-Data definition					10 points	
-Overview, scenarios and use cases			10 points
-Initial list of high-level functional requirements	10 points
-List of non-functional requirements		10 points
-High-level system architecture			10 points
-Team and checklist					10 points
-Working with GitHub				10 points	
-Deliverable						10 points
+
+&nbsp;&nbsp;&nbsp;1) Executive Summary					                             10 points
+&nbsp;&nbsp;&nbsp;2) Competitive analysis				                          	10 points	
+&nbsp;&nbsp;&nbsp;3) Data definition					                               10 points	
+&nbsp;&nbsp;&nbsp;4) Overview, scenarios and use cases			               10 points
+&nbsp;&nbsp;&nbsp;5) Initial list of high-level functional requirements	10 points
+&nbsp;&nbsp;&nbsp;6) List of non-functional requirements		              10 points
+&nbsp;&nbsp;&nbsp;7) High-level system architecture			                  10 points
+&nbsp;&nbsp;&nbsp;8) Team and checklist					                            10 points
+&nbsp;&nbsp;&nbsp;9) Working with GitHub				                            10 points	
+&nbsp;&nbsp;&nbsp;10) Deliverable						                                 10 points
