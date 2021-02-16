@@ -1,11 +1,4 @@
-# Instruction:
-This is a team project.  Each team submits one document to Canvas
-
-This document is the first milestone in your term-long project. You will propose a term project that will be developed and deployed over the course.  Your team decides on the specific theme and features of your project, or you can work on the project that I have proposed for you (see Project Description on Canvas). If you choose your own project, please have instructor’s approval before proceeding.
-
-Your term project proposal and description should include at least the following sections, based on which you can add more sections when you see fit.
 # 1.Executive Summary
-## A short description of the final project and its key advantages, novelty, and values, up to 1 page. Make it an executive summary -- think of answering the question of why you develop this project and target at what market sectors. Assign a product name to your project. This executive summary should be readable to a general audience who is not a computer science specialist. The executive summary is also used to advertise and promote your project.
 
 **Given the current times, we wanted to create an app that will help people feel connected even during these socially distanced times. Calendar Connect is a personalized web app that can be tailored to the needs of each individual user.**
 
