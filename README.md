@@ -61,87 +61,85 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 
 **Connects people during social distancing**:
 
-&nbsp;&nbsp;&nbsp;- The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times of living in a pandemic.
+- The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times of living in a pandemic.
 
 **Connects the user to their contacts based on free time**:
 
-&nbsp;&nbsp;&nbsp;- Instead of your everyday calendar that provides a clear view into your scheduled events on a daily, weekly or monthly basis, our web app focuses on a user’s availability in order to provide an all inclusive view into the user’s and their contact’s free time. 
+- Instead of your everyday calendar that provides a clear view into your scheduled events on a daily, weekly or monthly basis, our web app focuses on a user’s availability in order to provide an all inclusive view into the user’s and their contact’s free time. 
 
 **Dashboard calendar focuses on availability instead of blocked off time**:
 
-&nbsp;&nbsp;&nbsp;- This unique approach gives people the ability to easily view and manage their availability so that they don’t have to manually search for their next open time slot to meet with family, friends or colleagues. Their free time is automatically populated in their calendar on the dashboard.
+- This unique approach gives people the ability to easily view and manage their availability so that they don’t have to manually search for their next open time slot to meet with family, friends or colleagues. Their free time is automatically populated in their calendar on the dashboard.
 Capability to synchronize the calendars
 
-&nbsp;&nbsp;&nbsp;- A user’s calendar can easily be synced with specific contacts’ calendars to recommend the perfect time that works for them! This useful functionality saves time in finding a time slot that works for everyone.
+- A user’s calendar can easily be synced with specific contacts’ calendars to recommend the perfect time that works for them! This useful functionality saves time in finding a time slot that works for everyone.
  
 **Provides customizable dashboard functionality**:
-
-&nbsp;&nbsp;&nbsp;- The UI of the web app provides the logged in user with a default dashboard layout that can be rearranged and sized according to the user’s personal preferences.
+- The UI of the web app provides the logged in user with a default dashboard layout that can be rearranged and sized according to the user’s personal preferences.
 
 **User dashboard contains a series of floating widgets**:
 
-&nbsp;&nbsp;&nbsp;- The widgets are free to be moved around and can also be hidden if the user prefers limited information on their dashboard.
+- The widgets are free to be moved around and can also be hidden if the user prefers limited information on their dashboard.
 
 **Integrates with existing calendars of the user to populate the calendar in the UI**:
 
-&nbsp;&nbsp;&nbsp;- Functionality to integrate with the user’s existing calendar apps is available in order to populate their dashboard calendar and suggested free times widget with the necessary time availability information.
+- Functionality to integrate with the user’s existing calendar apps is available in order to populate their dashboard calendar and suggested free times widget with the necessary time availability information.
 
 **To-do lists, upcoming events are available widgets to provide additional info to the logged in user**:
 
-&nbsp;&nbsp;&nbsp;- In order to give the user useful insights into their day, to-do list  and upcoming events widgets are available.
+- In order to give the user useful insights into their day, to-do list  and upcoming events widgets are available.
 
 **Meant for personal use and school as well. Not limited to professional use**:
 
-&nbsp;&nbsp;&nbsp;- Unlike the Outlook calendar or other comparable software that is geared toward work or professional use, our web app is meant for users of all ages and for any purpose that can connect people together!
+- Unlike the Outlook calendar or other comparable software that is geared toward work or professional use, our web app is meant for users of all ages and for any purpose that can connect people together!
 
 # 6. List of non-functional requirements
 For example, performance, usability, accessibility, expected load, security requirements, storage, availability, fault tolerance etc.  Number each. When possible, try to quantify these quality attributes.
 
 **Usability**:
 
-&nbsp;&nbsp;&nbsp;- Must have color blind mode, and dark mode for customizability and user necessity.(colors customizable)
+- Must have color blind mode, and dark mode for customizability and user necessity.(colors customizable)
 
-&nbsp;&nbsp;&nbsp;- Buttons must be large enough for users of all ages.(customizable)
+- Buttons must be large enough for users of all ages.(customizable)
 
-&nbsp;&nbsp;&nbsp;- Calendars will also be customizable for user comfort.(size, color, location)
+- Calendars will also be customizable for user comfort.(size, color, location)
 
-&nbsp;&nbsp;&nbsp;- Text will be customizable.
+- Text will be customizable.
 
 **Reliability / Availability**:
 
-&nbsp;&nbsp;&nbsp;- Stable website, no bugs or crashes
+- Stable website, no bugs or crashes
 
-&nbsp;&nbsp;&nbsp;- Website cannot crash from too many users online at once(sometimes its unavoidable)
+- Website cannot crash from too many users online at once(sometimes its unavoidable)
 
-&nbsp;&nbsp;&nbsp;- In case of outage there will be back-up generators to give time to inform the users of an outage and estimated server downtime.
+- In case of outage there will be back-up generators to give time to inform the users of an outage and estimated server downtime.
 
-&nbsp;&nbsp;&nbsp;- Servers will be owned and accessible by CalendarConnect to ensure upkeep and uptime.
+- Servers will be owned and accessible by CalendarConnect to ensure upkeep and uptime.
 
 **Performance**:
 
-&nbsp;&nbsp;&nbsp;- Quick response time, low MS latency on clicks.
+- Quick response time, low MS latency on clicks.
 
-&nbsp;&nbsp;&nbsp;- Smooth transitions(low MS and reactive movements)
+- Smooth transitions(low MS and reactive movements)
 
-&nbsp;&nbsp;&nbsp;- When pinging a user, the ping should be near instant.(notification, calendar requests, etc)
+- When pinging a user, the ping should be near instant.(notification, calendar requests, etc)
 
-&nbsp;&nbsp;&nbsp;- Functional buttons, users should not have to click more than once to access anything on CalendarConnect. (hitboxes)
+- Functional buttons, users should not have to click more than once to access anything on CalendarConnect. (hitboxes)
 
 **Supportability**:
 
-&nbsp;&nbsp;&nbsp;- Will have support for android and IOS (down the line)
+- Will have support for android and IOS (down the line)
 
-&nbsp;&nbsp;&nbsp;- CalendarConnect will have an email that will allow customers to send their perspectives to the company. This will allow for the Devs to make changes accordingly.
+- CalendarConnect will have an email that will allow customers to send their perspectives to the company. This will allow for the Devs to make changes accordingly.
 
-&nbsp;&nbsp;&nbsp;- CalendarConnect will have a short informational video explaining how to use the website/app and its features.
+- CalendarConnect will have a short informational video explaining how to use the website/app and its features.
 
 **Security**:
 
-&nbsp;&nbsp;&nbsp;- Highly maintained security measures, especially since CalendarConnect deals with personal information such as locations and schedules.
+- Highly maintained security measures, especially since CalendarConnect deals with personal information such as locations and schedules.
+- Cloud and physical user information must also be protected at all times. Security measures involving these will move quickly and secretly.
 
-&nbsp;&nbsp;&nbsp;- Cloud and physical user information must also be protected at all times. Security measures involving these will move quickly and secretly.
-
-&nbsp;&nbsp;&nbsp;- Reliable and predictable behavior
+- Reliable and predictable behavior
 
 # 7. High-level system architecture:
 
@@ -169,15 +167,15 @@ Product Owner: Leon Rice III
 
 Initial Roles:
 
-&nbsp;&nbsp;&nbsp;- Charlton Benting (Dev Team/Backend)
+- Charlton Benting (Dev Team/Backend)
 
-&nbsp;&nbsp;&nbsp;- Gianluca Guagliardo (Dev Team/Backend)
+- Gianluca Guagliardo (Dev Team/Backend)
 
-&nbsp;&nbsp;&nbsp;- Hendrein Paul (Dev Team/Frontend)
+- Hendrein Paul (Dev Team/Frontend)
 
-&nbsp;&nbsp;&nbsp;- Mayte Ramirez-Calderon (Dev Team/Frontend Lead)
+- Mayte Ramirez-Calderon (Dev Team/Frontend Lead)
 
-&nbsp;&nbsp;&nbsp;- Leon Rice III (Dev Team/Backend Lead)
+- Leon Rice III (Dev Team/Backend Lead)
 
 # 9. Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
