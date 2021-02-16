@@ -1,6 +1,6 @@
 <h1>Milestone 1: Team Project Proposal and Description</h1>
 
-## 1.Executive Summary
+## 1. Executive Summary
 
 Given the current times, we wanted to create an app that will help people feel connected even during these socially distanced times. Calendar Connect is a personalized web app that can be tailored to the needs of each individual user.
 
@@ -8,7 +8,7 @@ The main focus of Calendar Connect is to allow people to stay connected with the
 
 Unlike most apps that are tailored specifically for just work, school, or businesses, Calendar Connect offers a large reachability that can be used by everyone for all sorts of needs. Calendar Connect’s integration allows users to customize their features to fit their needs either for school, work, personal life, or all of the above.
 
-# 2.Competitive analysis
+# 2. Competitive analysis
 
 | Google Workspace  | Calendar.com | CalendarConnect(Us) |
 | ------------- | ------------- | ------------- |
@@ -21,11 +21,10 @@ Unlike most apps that are tailored specifically for just work, school, or busine
 
 Unlike most of our competitors, who are focused on enhancing the scheduling of business operations, our product will be more gauged more towards the general public and working adults.
 
+# 3. Data definition
 
-# 3.Data definition
-This section serves as the “dictionary” of your document. It defines main terms, data structures and “items” or “entities” at high or logical (not implementation) level (e.g. name, meaning, usage, and NOT how the data is stored in memory) so it is easier to refer to them in the document. Focus on key terms (main data elements, actors, types of users etc.) specific for your application and not on general well known terms. These terms and their names must be used consistently from then on in all documents, user interface, in naming software components and database elements etc. In later milestones, you will add more implementation details for each item. You will later expand this section with more details.
-/
 Database elements: id, name, email, phone number, dob, password, registration date
+
 Maps/Dictionaries (Hashing): authentication of user information, database security (obfuscation)
 Heap sort (sorting algorithm): to sort users contacts, events by importance, and messages
 Binary search (searching algorithm): to find an event, contact, or message/note
@@ -51,7 +50,7 @@ For users who enjoy expressing their creativity and personalizing their calendar
 
 
 
-# 5.Initial list of high-level functional requirements
+# 5. Initial list of high-level functional requirements
 This refers to the high-level functionality that you plan to develop to the best of your knowledge at this point.  Focus on WHAT and not HOW. Keep the users in mind. Develop these functions to be consistent with use cases and requirements above. Number each requirement and use these numbers consistently from now on. For each functionality use 1-5 line description.
 Connects people during social distancing
 The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times of living in a pandemic.
@@ -76,7 +75,7 @@ Unlike the Outlook calendar or other comparable software that is geared toward w
 5.It’s the “what” of the project
 Overall function or activity of a neural system, contains executive summary
 
-# 6.List of non-functional requirements
+# 6. List of non-functional requirements
 For example, performance, usability, accessibility, expected load, security requirements, storage, availability, fault tolerance etc.  Number each. When possible, try to quantify these quality attributes.
 Gianluca Guagliardo(FEEL FREE TO MAKE CHANGES):
 Usability:
