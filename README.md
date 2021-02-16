@@ -196,7 +196,22 @@ For each item below you must answer with only one of the following: DONE, ON TRA
 &nbsp;&nbsp;&nbsp;G)Team lead ensured that all team members read the final M1 and agree/understand it before submission: DONE
 
 # 10.Tasks before submission
-Teams must collaborate in creating an M1 document by having a working M1 document on their team GitHub repository (similar to managing code) so all team members can access it. Added advantage of doing it this way is that it builds teamwork and communication. We recommend having a folder for project documentation on the team's GitHub where milestones and other similar files can be kept.
+Each team submits one single word document with all the above required sections to Canvas by the due date.  Must have a title page to your document, including:
+
+&nbsp;&nbsp;&nbsp;A)Course Title and term: CEN 4010 Principles of Software Engineering, Semester and Year
+
+&nbsp;&nbsp;&nbsp;B)Document name: Milestone 1 Project Proposal and High-level description
+
+&nbsp;&nbsp;&nbsp;C)Your team name, and project name (you can use the name you chose for your team)
+
+&nbsp;&nbsp;&nbsp;D)Team number (I will assign you one)
+
+&nbsp;&nbsp;&nbsp;E)Names of students (team lead first) with names and emails
+
+&nbsp;&nbsp;&nbsp;F)Documentation Date
+
+&nbsp;&nbsp;&nbsp;G)History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)
+
 # 11.Submission 
 Each team submits one single word document with all the above required sections to Canvas by the due date.  Must have a title page to your document, including:
 Course Title and term: CEN 4010 Principles of Software Engineering, Semester and Year
