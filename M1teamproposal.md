@@ -19,7 +19,7 @@
 | Personal member site  | Team Calendars  | Automated system to find availability between selected contacts |
 | Custom email for your business and includes collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides | “Anyone” can book a meeting directly with you  | Customizable calendars |
 
-Unlike most of our competitors, who are focused on enhancing the scheduling of business operations, our product will be gauged more towards the general public and working adults.
+Unlike most of our competitors, who are focused on enhancing the scheduling of business operations, our product will be more gauged more towards the general public and working adults.
 
 # 3. Data definition
 
@@ -214,7 +214,7 @@ Each team submits one single word document with all the above required sections 
 
 &nbsp;&nbsp;&nbsp; f)&nbsp;Documentation Date
 
-&nbsp;&nbsp;&nbsp; <pre> g) History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)</pre>
+&nbsp;&nbsp;&nbsp; g)&nbsp;History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)
 
 # 12.Grading criteria
 Your document needs to be well-written, well-organized (formatted) and reads well.  Grading is based on cohesiveness and completeness.
