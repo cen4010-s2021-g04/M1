@@ -35,7 +35,7 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 
 **Event:** defines a calendar event – unique id, event name, time, location, notes, attendees, color 
 
-**Calendar:** defines type of calendar – unique id, calendar name, group calendar (Boolean), viewers, calendar admins, public/private, events, color, calendar view
+**Widget Children:** Calendardefines type of calendar – unique id, calendar name, group calendar (Boolean), viewers, calendar admins, public/private, events, color, calendar view
 
 **Widget:** defines the type of widget available widget the user can add to the dashboard – widget name, location (on the board), delete widget
 
