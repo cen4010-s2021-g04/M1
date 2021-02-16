@@ -235,7 +235,7 @@ Your document needs to be well-written, well-organized (formatted) and reads wel
 
 <pre>7) High-level system architecture                        10 points</pre>
 
-<pre>) Team and checklist                                     10 points</pre>
+<pre>8) Team and checklist                                     10 points</pre>
 
 <pre>9) Working with GitHub                                   10 points</pre>
 
