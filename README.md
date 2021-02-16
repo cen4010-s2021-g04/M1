@@ -90,48 +90,44 @@ In order to give the user useful insights into their day, to-do list  and upcomi
 
 Unlike the Outlook calendar or other comparable software that is geared toward work or professional use, our web app is meant for users of all ages and for any purpose that can connect people together!
 
-
-5.It’s the “what” of the project
-Overall function or activity of a neural system, contains executive summary
-
 # 6. List of non-functional requirements
 For example, performance, usability, accessibility, expected load, security requirements, storage, availability, fault tolerance etc.  Number each. When possible, try to quantify these quality attributes.
-Gianluca Guagliardo(FEEL FREE TO MAKE CHANGES):
-Usability:
-1. 	Must have color blind mode, and dark mode for customizability and user    necessity.(colors customizable)
-2. 	Buttons must be large enough for users of all ages.(customizable)
-3. 	Calendars will also be customizable for user comfort.(size, color, location)
-4. 	Text will be customizable.
 
-Reliability / Availability:
-1. 	Stable website, no bugs or crashes
-2. 	Website cannot crash from too many users online at once(sometimes its unavoidable)
-3. 	In case of outage there will be back-up generators to give time to inform the users of an outage and estimated server downtime.
-4. 	Servers will be owned and accessible by CalendarConnect to ensure upkeep and uptime.
-Scalability:
-1.       The system will be upgraded according to the number of users
-2.       Server will be able to hold a greater number of users than the expected amount for lower latency, faster response times, and server overcrowding.
-3.       Physical server space will be sufficient for future upgrades.
+**Usability:
 
-Performance:
-1.       Quick response time, low MS latency on clicks.
-2.       Smooth transitions(low MS and reactive movements)
-3.       When pinging a user, the ping should be near instant.(notification, calendar requests, etc)
-4.       Functional buttons, users should not have to click more than once to access anything on CalendarConnect. (hitboxes)
+-Must have color blind mode, and dark mode for customizability and user    necessity.(colors customizable)
+-Buttons must be large enough for users of all ages.(customizable)
+-Calendars will also be customizable for user comfort.(size, color, location)
+-Text will be customizable.
 
-Supportability:
-1.       Will have support for android and IOS (down the line)
-2.       CalendarConnect will have an email that will allow customers to send their perspectives to the company. This will allow for the Devs to make changes accordingly.
-3.       CalendarConnect will have a short informational video explaining how to use the website/app and its features.
+**Reliability / Availability:
 
-Security:
-1.       Highly maintained security measures, especially since CalendarConnect deals with personal information such as locations and schedules.
-2.       Cloud and physical user information must also be protected at all times. Security measures involving these will move quickly and secretly.
-3. Reliable and predictable behavior
-(I’m not sure of another NON-functional security feature, if you come up with anything add it, 2 factor authen is not a Non-func it is functional[big sad])
+-Stable website, no bugs or crashes
+-Website cannot crash from too many users online at once(sometimes its unavoidable)
+-In case of outage there will be back-up generators to give time to inform the users of an outage and estimated server downtime.
+-Servers will be owned and accessible by CalendarConnect to ensure upkeep and uptime.
 
+**Performance:
 
-# 7.High-level system architecture
+-Quick response time, low MS latency on clicks.
+-Smooth transitions(low MS and reactive movements)
+-When pinging a user, the ping should be near instant.(notification, calendar requests, etc)
+-Functional buttons, users should not have to click more than once to access anything on CalendarConnect. (hitboxes)
+
+**Supportability:
+
+-Will have support for android and IOS (down the line)
+-CalendarConnect will have an email that will allow customers to send their perspectives to the company. This will allow for the Devs to make changes accordingly.
+-CalendarConnect will have a short informational video explaining how to use the website/app and its features.
+
+**Security:
+
+-Highly maintained security measures, especially since CalendarConnect deals with personal information such as locations and schedules.
+-Cloud and physical user information must also be protected at all times. Security measures involving these will move quickly and secretly.
+-Reliable and predictable behavior
+
+# 7.High-level system architecture:
+
 Lists of main software products, tools, languages and systems to be used, list of core APIs available at this point, supported browsers etc. 
 You also have to decide on which frameworks you will use if any. These provide both user interface, as well as cross-platform and cross browser layout/css. All external code you plan to use must be listed along with their license.
 Gianluca Guagliardo(FEEL FREE TO MAKE CHANGES):
