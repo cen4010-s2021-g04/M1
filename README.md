@@ -221,23 +221,23 @@ Your document needs to be well-written, well-organized (formatted) and reads wel
 
 <p>
  
-1) Executive Summary					                             10 points
+<pre>1) Executive Summary					                             10 points</pre>
  
-2) Competitive analysis					                          10 points	
+<pre>2) Competitive analysis					                          10 points</pre>
 
-3) Data definition					                               10 points	
+<pre>3) Data definition					                               10 points</pre>
 
-4) Overview, scenarios and use cases		                10 points
+<pre>4) Overview, scenarios and use cases		                10 points</pre>
 
-5) Initial list of high-level functional requirements	10 points
+<pre>5) Initial list of high-level functional requirements	10 points</pre>
 
-6) List of non-functional requirements		              10 points
+<pre>6) List of non-functional requirements		              10 points</pre>
 
-7) High-level system architecture			                  10 points
+<pre>7) High-level system architecture			                  10 points</pre>
 
-8) Team and checklist					                            10 points
+<pre>) Team and checklist					                             10 points</pre>
 
-9) Working with GitHub				                            10 points	
+<pre>9) Working with GitHub				                            10 points</pre>
 
 </p>
 
