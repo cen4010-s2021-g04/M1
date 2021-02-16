@@ -19,7 +19,7 @@
 | Personal member site  | Team Calendars  | Automated system to find availability between selected contacts |
 | Custom email for your business and includes collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides | “Anyone” can book a meeting directly with you  | Customizable calendars |
 
-Unlike most of our competitors, who are focused on enhancing the scheduling of business operations, our product will be more gauged more towards the general public and working adults.
+Unlike most of our competitors, who are focused on enhancing the scheduling of business operations, our product will be gauged more towards the general public and working adults.
 
 # 3. Data definition
 
