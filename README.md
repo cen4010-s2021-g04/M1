@@ -19,7 +19,7 @@ Unlike most apps that are tailored specifically for just work, school, or busine
 | Personal member site  | Team Calendars  | Automated system to find availability between selected contacts |
 | Custom email for your business and includes collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides | “Anyone” can book a meeting directly with you  | Customizable calendars |
 
-Unlike most of our competitors, who are focused on enhancing the scheduling of business operations, our product will be more gauged more towards the general public and working adults.
+Unlike most of our competitors, who are focused on enhancing the scheduling of business operations, our product will be more gauged more towards the general public and working adults by offering a large reachability that can be used by everyone for all needs. Calendar Connect’s integration allows users to customize their features to fit their lifestyle for either for school, work, personal life, or all of the above.
 
 ## 3. Data definition
 
