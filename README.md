@@ -145,7 +145,7 @@ For example, performance, usability, accessibility, expected load, security requ
 
 **Frameworks**: React.js, MongoDB (potentially), FullCalendar.js (potentially)
 
-All external code you plan to use must be listed along with their license. 
+All external code you plan to use must be listed along with their license. (Subject to change)
 
 **Bootstrap**: https://github.com/twbs/bootstrap/blob/v4.0.0/LICENSE
 
