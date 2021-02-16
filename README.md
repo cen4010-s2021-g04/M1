@@ -58,37 +58,38 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 
 **Connects people during social distancing**
 
-The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times of living in a pandemic.
+&nbsp;&nbsp;&nbsp;-The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times of living in a pandemic.
 
 **Connects the user to their contacts based on free time**
 
-Instead of your everyday calendar that provides a clear view into your scheduled events on a daily, weekly or monthly basis, our web app focuses on a user’s availability in order to provide an all inclusive view into the user’s and their contact’s free time. 
+&nbsp;&nbsp;&nbsp;-Instead of your everyday calendar that provides a clear view into your scheduled events on a daily, weekly or monthly basis, our web app focuses on a user’s availability in order to provide an all inclusive view into the user’s and their contact’s free time. 
 
 **Dashboard calendar focuses on availability instead of blocked off time**
 
-This unique approach gives people the ability to easily view and manage their availability so that they don’t have to manually search for their next open time slot to meet with family, friends or colleagues. Their free time is automatically populated in their calendar on the dashboard.
+&nbsp;&nbsp;&nbsp;-This unique approach gives people the ability to easily view and manage their availability so that they don’t have to manually search for their next open time slot to meet with family, friends or colleagues. Their free time is automatically populated in their calendar on the dashboard.
 Capability to synchronize the calendars
- A user’s calendar can easily be synced with specific contacts’ calendars to recommend the perfect time that works for them! This useful functionality saves time in finding a time slot that works for everyone.
+
+&nbsp;&nbsp;&nbsp;-A user’s calendar can easily be synced with specific contacts’ calendars to recommend the perfect time that works for them! This useful functionality saves time in finding a time slot that works for everyone.
  
 **Provides customizable dashboard functionality**
 
-The UI of the web app provides the logged in user with a default dashboard layout that can be rearranged and sized according to the user’s personal preferences.
+&nbsp;&nbsp;&nbsp;-The UI of the web app provides the logged in user with a default dashboard layout that can be rearranged and sized according to the user’s personal preferences.
 
 **User dashboard contains a series of floating widgets**
 
-The widgets are free to be moved around and can also be hidden if the user prefers limited information on their dashboard.
+&nbsp;&nbsp;&nbsp;-The widgets are free to be moved around and can also be hidden if the user prefers limited information on their dashboard.
 
 **Integrates with existing calendars of the user to populate the calendar in the UI**
 
-Functionality to integrate with the user’s existing calendar apps is available in order to populate their dashboard calendar and suggested free times widget with the necessary time availability information.
+&nbsp;&nbsp;&nbsp;-Functionality to integrate with the user’s existing calendar apps is available in order to populate their dashboard calendar and suggested free times widget with the necessary time availability information.
 
 **To-do lists, upcoming events are available widgets to provide additional info to the logged in user**
 
-In order to give the user useful insights into their day, to-do list  and upcoming events widgets are available.
+&nbsp;&nbsp;&nbsp;-In order to give the user useful insights into their day, to-do list  and upcoming events widgets are available.
 
 **Meant for personal use and school as well. Not limited to professional use.**
 
-Unlike the Outlook calendar or other comparable software that is geared toward work or professional use, our web app is meant for users of all ages and for any purpose that can connect people together!
+&nbsp;&nbsp;&nbsp;-Unlike the Outlook calendar or other comparable software that is geared toward work or professional use, our web app is meant for users of all ages and for any purpose that can connect people together!
 
 # 6. List of non-functional requirements
 For example, performance, usability, accessibility, expected load, security requirements, storage, availability, fault tolerance etc.  Number each. When possible, try to quantify these quality attributes.
@@ -173,8 +174,11 @@ Initial Roles:
 
 # 9.Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
+
 Team decided on basic means of communications: DONE
+
 Team found a time slot to meet outside of the class: DONE
+
 Front and back end team leads chosen: DONE
 Frontend 
 Github master chosen: DONE
