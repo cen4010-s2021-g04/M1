@@ -220,23 +220,22 @@ Each team submits one single word document with all the above required sections 
 Your document needs to be well-written, well-organized (formatted) and reads well.  Grading is based on cohesiveness and completeness.
 
 <p>
- Executive Summary					10 points
+1) Executive Summary					                             10 points
  
-Competitive analysis					10 points	
+2) Competitive analysis					                          10 points	
 
-Data definition					10 points	
+3) Data definition					                               10 points	
 
-Overview, scenarios and use cases			10 points
+4) Overview, scenarios and use cases		                10 points
 
-Initial list of high-level functional requirements	10 points
+5) Initial list of high-level functional requirements	10 points
 
-List of non-functional requirements		10 points
+6) List of non-functional requirements		              10 points
 
-High-level system architecture			10 points
+7) High-level system architecture			                  10 points
 
-Team and checklist					10 points
+8) Team and checklist					                            10 points
 
-Working with GitHub				10 points	
- 
+9) Working with GitHub				                            10 points	
 </p>
 
