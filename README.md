@@ -58,8 +58,7 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 
 **Connects people during social distancing**
 
-&nbsp;&nbsp;&nbsp;-&nbsp;The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times 
-&nbsp;&nbsp;&nbsp;&nbsp;of living in a pandemic.
+&nbsp;&nbsp;&nbsp;-&nbsp;The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times of living in a pandemic.
 
 **Connects the user to their contacts based on free time**
 
