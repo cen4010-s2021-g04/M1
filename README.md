@@ -12,7 +12,7 @@ Unlike most apps that are tailored specifically for just work, school, or busine
 
 | Google Workspace  | Calendar.com | CalendarConnect(Us) |
 | ------------- | ------------- | ------------- |
-| Smart Scheduling  | Integration of other calendars  | Content Cell  |
+| Smart Scheduling  | Integration of other calendars  | Integration of other calendars  |
 | Instants messaging between team members  | Calendar analytics; a break down of all type of meetings| Instant messaging between contacts |
 | Shareable/team calendars  | Artificial intelligence/Machine learning  | Group/shareable/team calendars  |
 | Video conferencing  | Smart scheduling (overlay of who what time is available for selected contacts)  | Smart scheduling (overlay of who what time is available for selected contacts)  |
