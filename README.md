@@ -242,4 +242,3 @@ Your document needs to be well-written, well-organized (formatted) and reads wel
 <pre>10) Deliverable                                          10 points</pre>
 
 </p>
-<pre>1) Executive Summary                                     10 points</pre>
