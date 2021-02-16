@@ -160,15 +160,15 @@ Product Owner: Leon Rice III
 
 Initial Roles:
 
-$nbsp;$nbsp;$nbsp;-Charlton Benting (Dev Team/Backend)
+&nbsp;&nbsp;&nbsp;-Charlton Benting (Dev Team/Backend)
 
-$nbsp;$nbsp;$nbsp;-Gianluca Guagliardo (Dev Team/Backend)
+&nbsp;&nbsp;&nbsp;-Gianluca Guagliardo (Dev Team/Backend)
 
-$nbsp;$nbsp;$nbsp;-Hendrein Paul (Dev Team/Frontend)
+&nbsp;&nbsp;&nbsp;-Hendrein Paul (Dev Team/Frontend)
 
-$nbsp;$nbsp;$nbsp;-Mayte Ramirez-Calderon (Dev Team/Frontend)
+&nbsp;&nbsp;&nbsp;-Mayte Ramirez-Calderon (Dev Team/Frontend)
 
-$nbsp;$nbsp;$nbsp;-Leon Rice III (Dev Team/Backend)
+&nbsp;&nbsp;&nbsp;-Leon Rice III (Dev Team/Backend)
 
 # 9.Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
