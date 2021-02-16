@@ -26,12 +26,19 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 Database elements: id, name, email, phone number, dob, password, registration date
 
 Maps/Dictionaries (Hashing): authentication of user information, database security (obfuscation)
+
 Heap sort (sorting algorithm): to sort users contacts, events by importance, and messages
+
 Binary search (searching algorithm): to find an event, contact, or message/note
+
 User: defines the user entity – unique id, name, email, password, phone number, DOB, profile picture
+
 Event: defines a calendar event – unique id, event name, time, location, notes, attendees, color 
+
 Calendar: defines type of calendar – unique id, calendar name, group calendar (Boolean), viewers, calendar admins, public/private, events, color, calendar view
+
 Widget: defines the type of widget available widget the user can add to the dashboard – widget name, location (on the board), delete widget
+
 Calendar (cannot de deleted)/Note/Weather/Messages/Contacts/Favorites/Photo slideshow/time/ widget: children of the widget class
 
 /
