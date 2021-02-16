@@ -175,25 +175,25 @@ Initial Roles:
 # 9.Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
 
-&nbsp;&nbsp;&nbsp;-a)Team decided on basic means of communications: DONE
+&nbsp;&nbsp;&nbsp;A)Team decided on basic means of communications: DONE
 
-&nbsp;&nbsp;&nbsp;-b)Team found a time slot to meet outside of the class: DONE
+&nbsp;&nbsp;&nbsp;B)Team found a time slot to meet outside of the class: DONE
 
-&nbsp;&nbsp;&nbsp;-c)Front and back end team leads chosen: DONE
+&nbsp;&nbsp;&nbsp;C)Front and back end team leads chosen: DONE
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Frontend: Mayte Ramirez-Calderon
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Backend: Leon Rice III
 
-&nbsp;&nbsp;&nbsp;-d)Github master chosen: DONE
+&nbsp;&nbsp;&nbsp;D)Github master chosen: DONE
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Gianluca Guagliardo
 
-&nbsp;&nbsp;&nbsp;-e)Team ready and able to use the chosen back and front-end frameworks: DONE
+&nbsp;&nbsp;&nbsp;E)Team ready and able to use the chosen back and front-end frameworks: DONE
 
-&nbsp;&nbsp;&nbsp;d)Skills of each team member defined and known to all: DONE
+&nbsp;&nbsp;&nbsp;D)Skills of each team member defined and known to all: DONE
 
-&nbsp;&nbsp;&nbsp;g)Team lead ensured that all team members read the final M1 and agree/understand it before submission: DONE
+&nbsp;&nbsp;&nbsp;G)Team lead ensured that all team members read the final M1 and agree/understand it before submission: DONE
 
 # 10.Tasks before submission
 Teams must collaborate in creating an M1 document by having a working M1 document on their team GitHub repository (similar to managing code) so all team members can access it. Added advantage of doing it this way is that it builds teamwork and communication. We recommend having a folder for project documentation on the team's GitHub where milestones and other similar files can be kept.
