@@ -175,25 +175,25 @@ Initial Roles:
 # 9.Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
 
-&nbsp;&nbsp;&nbsp;A)Team decided on basic means of communications: DONE
+&nbsp;&nbsp;&nbsp;a)Team decided on basic means of communications: DONE
 
-&nbsp;&nbsp;&nbsp;B)Team found a time slot to meet outside of the class: DONE
+&nbsp;&nbsp;&nbsp;b)Team found a time slot to meet outside of the class: DONE
 
-&nbsp;&nbsp;&nbsp;C)Front and back end team leads chosen: DONE
+&nbsp;&nbsp;&nbsp;c)Front and back end team leads chosen: DONE
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Frontend: Mayte Ramirez-Calderon
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Backend: Leon Rice III
 
-&nbsp;&nbsp;&nbsp;D)Github master chosen: DONE
+&nbsp;&nbsp;&nbsp;d)Github master chosen: DONE
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Gianluca Guagliardo
 
-&nbsp;&nbsp;&nbsp;E)Team ready and able to use the chosen back and front-end frameworks: DONE
+&nbsp;&nbsp;&nbsp;e)Team ready and able to use the chosen back and front-end frameworks: DONE
 
-&nbsp;&nbsp;&nbsp;D)Skills of each team member defined and known to all: DONE
+&nbsp;&nbsp;&nbsp;f)Skills of each team member defined and known to all: DONE
 
-&nbsp;&nbsp;&nbsp;G)Team lead ensured that all team members read the final M1 and agree/understand it before submission: DONE
+&nbsp;&nbsp;&nbsp;g)Team lead ensured that all team members read the final M1 and agree/understand it before submission: DONE
 
 # 10.Tasks before submission
 
@@ -202,19 +202,19 @@ Teams must collaborate in creating an M1 document by having a working M1 documen
 # 11.Submission 
 Each team submits one single word document with all the above required sections to Canvas by the due date.  Must have a title page to your document, including:
 
-&nbsp;&nbsp;&nbsp; A)&nbsp;Course Title and term: CEN 4010 Principles of Software Engineering, Semester and Year
+&nbsp;&nbsp;&nbsp; a)&nbsp;Course Title and term: CEN 4010 Principles of Software Engineering, Semester and Year
 
-&nbsp;&nbsp;&nbsp; B)&nbsp;Document name: Milestone 1 Project Proposal and High-level description
+&nbsp;&nbsp;&nbsp; b)&nbsp;Document name: Milestone 1 Project Proposal and High-level description
 
-&nbsp;&nbsp;&nbsp; C)&nbsp;Your team name, and project name (you can use the name you chose for your team)
+&nbsp;&nbsp;&nbsp; c)&nbsp;Your team name, and project name (you can use the name you chose for your team)
 
-&nbsp;&nbsp;&nbsp; D)&nbsp;Team number (I will assign you one)
+&nbsp;&nbsp;&nbsp; d)&nbsp;Team number (I will assign you one)
 
-&nbsp;&nbsp;&nbsp; E)&nbsp;Names of students (team lead first) with names and emails
+&nbsp;&nbsp;&nbsp; e)&nbsp;Names of students (team lead first) with names and emails
 
-&nbsp;&nbsp;&nbsp; F)&nbsp;Documentation Date
+&nbsp;&nbsp;&nbsp; f)&nbsp;Documentation Date
 
-&nbsp;&nbsp;&nbsp; G)&nbsp;History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)
+&nbsp;&nbsp;&nbsp; g)&nbsp;History table (revisions dates) (Note: you will update this document based on instructors’ feedback so this is important)
 
 # 12.Grading criteria
 Your document needs to be well-written, well-organized (formatted) and reads well.  Grading is based on cohesiveness and completeness.
