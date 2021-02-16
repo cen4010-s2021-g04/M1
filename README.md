@@ -58,12 +58,12 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 
 **Connects people during social distancing**
 
-&nbsp;&nbsp;&nbsp;-The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times 
+&nbsp;&nbsp;&nbsp;-&nbsp;The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times 
 &nbsp;&nbsp;&nbsp;&nbsp;of living in a pandemic.
 
 **Connects the user to their contacts based on free time**
 
-&nbsp;&nbsp;&nbsp;-Instead of your everyday calendar that provides a clear view into your scheduled events on a daily, weekly or monthly basis, our web app focuses on a user’s availability in order to provide an all inclusive view into the user’s and their contact’s free time. 
+&nbsp;&nbsp;&nbsp;-Instead of your everyday calendar that provides a clear view into your scheduled events on a daily, weekly or monthly basis, our web app focuses on a user’s &nbsp;&nbsp;&nbsp;&nbsp;availability in order to provide an all inclusive view into the user’s and their contact’s free time. 
 
 **Dashboard calendar focuses on availability instead of blocked off time**
 
