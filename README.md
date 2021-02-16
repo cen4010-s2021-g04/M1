@@ -9,30 +9,19 @@ The main focus of Calendar Connect is to allow people to stay connected with the
 Unlike most apps that are tailored specifically for just work, school, or businesses, Calendar Connect offers a large reachability that can be used by everyone for all sorts of needs. Calendar Connect’s integration allows users to customize their features to fit their needs either for school, work, personal life, or all of the above.
 
 # 2.Competitive analysis
-Analyzing competitive products available today. Present competitors’ features vs. your planned ones. First, create a table with key features of competitors vs. yours. Only at a very high level, 5-6 entries max. After the table, you must summarize what are the planned advantages or competitive relationship to what is already available.**
+
+| Google Workspace  | Calendar.com | CalendarConnect(Us) |
+| ------------- | ------------- | ------------- |
+| Smart Scheduling  | Integration of other calendars  | Content Cell  |
+| Instants messaging between team members  | Calendar analytics; a break down of all type of meetings| Instant messaging between contacts |
+| Shareable/team calendars  | Artificial intelligence/Machine learning  | Group/shareable/team calendars  |
+| Video conferencing  | Smart scheduling (overlay of who what time is available for selected contacts)  | Smart scheduling (overlay of who what time is available for selected contacts)  |
+| Personal member site  | Team Calendars  | Automated system to find availability between selected contacts |
+| Custom email for your business and includes collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides | “Anyone” can book a meeting directly with you  | Customizable calendars |
 
 
-Google Workspace
-Calendar.com
-CalendarConnect (Us)
-Smart Scheduling
-Integration of other calendars
-Integration with other calendars
-Instants messaging between team members
-Calendar analytics; a break down of all type of meetings
-Instant messaging between contacts
-Shareable/team calendars
-Artificial intelligence/Machine learning
-Group/shareable/team calendars
-Video conferencing
-Smart scheduling (overlay of who what time is available for selected contacts)
-Smart scheduling (overlay of who what time is available for selected contacts)
-Personal member sites
-Team Calendars
-Automated system to find availability between selected contacts
-Custom email for your business and includes collaboration tools like Gmail, Calendar, Meet, Chat, Drive, Docs, Sheets, Slides
-“Anyone” can book a meeting directly with you
-Customizable calendars
+
+
  
 Unlike most of our competitors, who are focused on enhancing the scheduling of business operations, our product will be more gauged more towards the general public and working adults.
 
