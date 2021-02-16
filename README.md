@@ -1,6 +1,9 @@
 <h1>Milestone 1: Team Project Proposal and Description</h1>
 
 ## 1. Executive Summary
+- Test
+- Another test
+- Final test 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Given the current times, we wanted to create an app that will help people feel connected even during these socially distanced times. Calendar Connect is a personalized web app that can be tailored to the needs of each individual user.
 
@@ -81,13 +84,13 @@ Capability to synchronize the calendars
 
 **Integrates with existing calendars of the user to populate the calendar in the UI**:
 
-&nbsp;&nbsp;&nbsp;-Functionality to integrate with the user’s existing calendar apps is available in order to populate their dashboard calendar and suggested free times widget with the necessary time availability information.
+&nbsp;&nbsp;&nbsp;- Functionality to integrate with the user’s existing calendar apps is available in order to populate their dashboard calendar and suggested free times widget with the necessary time availability information.
 
 **To-do lists, upcoming events are available widgets to provide additional info to the logged in user**:
 
 &nbsp;&nbsp;&nbsp;- In order to give the user useful insights into their day, to-do list  and upcoming events widgets are available.
 
-**Meant for personal use and school as well. Not limited to professional use.**
+**Meant for personal use and school as well. Not limited to professional use**:
 
 &nbsp;&nbsp;&nbsp;- Unlike the Outlook calendar or other comparable software that is geared toward work or professional use, our web app is meant for users of all ages and for any purpose that can connect people together!
 
