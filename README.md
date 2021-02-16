@@ -220,6 +220,7 @@ Each team submits one single word document with all the above required sections 
 Your document needs to be well-written, well-organized (formatted) and reads well.  Grading is based on cohesiveness and completeness.
 
 <p>
+ 
 1) Executive Summary					                             10 points
  
 2) Competitive analysis					                          10 points	
@@ -237,5 +238,6 @@ Your document needs to be well-written, well-organized (formatted) and reads wel
 8) Team and checklist					                            10 points
 
 9) Working with GitHub				                            10 points	
+
 </p>
 
