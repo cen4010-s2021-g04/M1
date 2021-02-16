@@ -10,7 +10,7 @@
 
 # 2. Competitive analysis
 
-| Google Workspace  | Calendar.com | CalendarConnect(Us) |
+| Google Workspace  | Calendar.com | CalendarConnect (Us) |
 | ------------- | ------------- | ------------- |
 | Smart Scheduling  | Integration of other calendars  | Integration of other calendars  |
 | Instants messaging between team members  | Calendar analytics; a break down of all type of meetings| Instant messaging between contacts |
@@ -23,23 +23,23 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 
 # 3. Data definition
 
-**Database elements:** id, name, email, phone number, dob, password, registration date
+**Database elements**: id, name, email, phone number, dob, password, registration date
 
-**Maps/Dictionaries (Hashing):** authentication of user information, database security (obfuscation)
+**Maps/Dictionaries (Hashing)**: authentication of user information, database security (obfuscation)
 
-**Heap sort (sorting algorithm):** to sort users contacts, events by importance, and messages
+**Heap sort (sorting algorithm)**: to sort users contacts, events by importance, and messages
 
-**Binary search (searching algorithm):** to find an event, contact, or message/note
+**Binary search (searching algorithm)**: to find an event, contact, or message/note
 
-**User:** defines the user entity – unique id, name, email, password, phone number, DOB, profile picture
+**User**: defines the user entity – unique id, name, email, password, phone number, DOB, profile picture
 
-**Event:** defines a calendar event – unique id, event name, time, location, notes, attendees, color 
+**Event**: defines a calendar event – unique id, event name, time, location, notes, attendees, color 
 
-**Calendar:** defines type of calendar – unique id, calendar name, group calendar (Boolean), viewers, calendar admins, public/private, events, color, calendar view
+**Calendar**: defines type of calendar – unique id, calendar name, group calendar (Boolean), viewers, calendar admins, public/private, events, color, calendar view
 
-**Widget:** defines the type of widget available widget the user can add to the dashboard – widget name, location (on the board), delete widget
+**Widget**: defines the type of widget available widget the user can add to the dashboard – widget name, location (on the board), delete widget
 
-**Widget Children:** Calendar (cannot de deleted)/Note/Weather/Messages/Contacts/Favorites/Photo slideshow/time/ widget: children of the widget class
+**Widget Children**: Calendar (cannot de deleted)/Note/Weather/Messages/Contacts/Favorites/Photo slideshow/time/ widget: children of the widget class
 
 # 4.Overview, scenarios and use cases
 
@@ -58,7 +58,7 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 
 **Connects people during social distancing**
 
-&nbsp;&nbsp;&nbsp;-&nbsp;The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times of living in a pandemic.
+&nbsp;&nbsp;&nbsp;- The initial purpose of this web app is to bridge the disconnect between everyday people during these trying times of living in a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pandemic.
 
 **Connects the user to their contacts based on free time**
 
@@ -94,83 +94,87 @@ Capability to synchronize the calendars
 # 6. List of non-functional requirements
 For example, performance, usability, accessibility, expected load, security requirements, storage, availability, fault tolerance etc.  Number each. When possible, try to quantify these quality attributes.
 
-**Usability:**
+**Usability**:
 
-&nbsp;&nbsp;&nbsp;-Must have color blind mode, and dark mode for customizability and user necessity.(colors customizable)
+&nbsp;&nbsp;&nbsp;- Must have color blind mode, and dark mode for customizability and user necessity.(colors customizable)
 
-&nbsp;&nbsp;&nbsp;-Buttons must be large enough for users of all ages.(customizable)
+&nbsp;&nbsp;&nbsp;- Buttons must be large enough for users of all ages.(customizable)
 
-&nbsp;&nbsp;&nbsp;-Calendars will also be customizable for user comfort.(size, color, location)
+&nbsp;&nbsp;&nbsp;- Calendars will also be customizable for user comfort.(size, color, location)
 
-&nbsp;&nbsp;&nbsp;-Text will be customizable.
+&nbsp;&nbsp;&nbsp;- Text will be customizable.
 
-**Reliability / Availability:**
+**Reliability / Availability**:
 
-&nbsp;&nbsp;&nbsp;-Stable website, no bugs or crashes
+&nbsp;&nbsp;&nbsp;- Stable website, no bugs or crashes
 
-&nbsp;&nbsp;&nbsp;-Website cannot crash from too many users online at once(sometimes its unavoidable)
+&nbsp;&nbsp;&nbsp;- Website cannot crash from too many users online at once(sometimes its unavoidable)
 
-&nbsp;&nbsp;&nbsp;-In case of outage there will be back-up generators to give time to inform the users of an outage and estimated server downtime.
+&nbsp;&nbsp;&nbsp;- In case of outage there will be back-up generators to give time to inform the users of an outage and estimated server downtime.
 
-&nbsp;&nbsp;&nbsp;-Servers will be owned and accessible by CalendarConnect to ensure upkeep and uptime.
+&nbsp;&nbsp;&nbsp;- Servers will be owned and accessible by CalendarConnect to ensure upkeep and uptime.
 
-**Performance:**
+**Performance**:
 
-&nbsp;&nbsp;&nbsp;-Quick response time, low MS latency on clicks.
+&nbsp;&nbsp;&nbsp;- Quick response time, low MS latency on clicks.
 
-&nbsp;&nbsp;&nbsp;-Smooth transitions(low MS and reactive movements)
+&nbsp;&nbsp;&nbsp;- Smooth transitions(low MS and reactive movements)
 
-&nbsp;&nbsp;&nbsp;-When pinging a user, the ping should be near instant.(notification, calendar requests, etc)
+&nbsp;&nbsp;&nbsp;- When pinging a user, the ping should be near instant.(notification, calendar requests, etc)
 
-&nbsp;&nbsp;&nbsp;-Functional buttons, users should not have to click more than once to access anything on CalendarConnect. (hitboxes)
+&nbsp;&nbsp;&nbsp;- Functional buttons, users should not have to click more than once to access anything on CalendarConnect. (hitboxes)
 
-**Supportability:**
+**Supportability**:
 
-&nbsp;&nbsp;&nbsp;-Will have support for android and IOS (down the line)
+&nbsp;&nbsp;&nbsp;- Will have support for android and IOS (down the line)
 
-&nbsp;&nbsp;&nbsp;-CalendarConnect will have an email that will allow customers to send their perspectives to the company. This will allow for the Devs to make changes accordingly.
+&nbsp;&nbsp;&nbsp;- CalendarConnect will have an email that will allow customers to send their perspectives to the company. This will allow for the Devs to make changes accordingly.
 
-&nbsp;&nbsp;&nbsp;-CalendarConnect will have a short informational video explaining how to use the website/app and its features.
+&nbsp;&nbsp;&nbsp;- CalendarConnect will have a short informational video explaining how to use the website/app and its features.
 
-**Security:**
+**Security**:
 
-&nbsp;&nbsp;&nbsp;-Highly maintained security measures, especially since CalendarConnect deals with personal information such as locations and schedules.
+&nbsp;&nbsp;&nbsp;- Highly maintained security measures, especially since CalendarConnect deals with personal information such as locations and schedules.
 
-&nbsp;&nbsp;&nbsp;-Cloud and physical user information must also be protected at all times. Security measures involving these will move quickly and secretly.
+&nbsp;&nbsp;&nbsp;- Cloud and physical user information must also be protected at all times. Security measures involving these will move quickly and secretly.
 
-&nbsp;&nbsp;&nbsp;-Reliable and predictable behavior
+&nbsp;&nbsp;&nbsp;- Reliable and predictable behavior
 
 # 7. High-level system architecture:
 
-**Languages:** CSS, Html, JavaScript, jQuery, json, ajax, MySQL
+**Languages**: CSS, Html, JavaScript, jQuery, json, ajax, MySQL
 
-**API:** Open Weather API, Google Calendar API, Outlook API, iCloud API, Nylas API (potentially)
+**API**: Open Weather API, Google Calendar API, Outlook API, iCloud API, Nylas API (potentially)
 
-**Browsers:** Chrome, Edge, Opera, Safari, Mozilla Firefox, and Android “Internet”.
+**Browsers**: Chrome, Edge, Opera, Safari, Mozilla Firefox, and Android “Internet”.
 
-**Frameworks:** React.js, MongoDB (potentially), FullCalendar.js (potentially)
+**Frameworks**: React.js, MongoDB (potentially), FullCalendar.js (potentially)
 
-All external code you plan to use must be listed along with their license.
+All external code you plan to use must be listed along with their license. 
+
+**Bootstrap**: https://github.com/twbs/bootstrap/blob/v4.0.0/LICENSE
+
+**Font Awesome**: https://fontawesome.com/license/free
 
 # 8. Team
 
 Group Name: Alpha Tech
 
-Scrum Master:  Gianluca Guagliardo Leon Rice III
+Scrum Master:  Gianluca Guagliardo
 
 Product Owner: Leon Rice III
 
 Initial Roles:
 
-&nbsp;&nbsp;&nbsp;-Charlton Benting (Dev Team/Backend)
+&nbsp;&nbsp;&nbsp;- Charlton Benting (Dev Team/Backend)
 
-&nbsp;&nbsp;&nbsp;-Gianluca Guagliardo (Dev Team/Backend)
+&nbsp;&nbsp;&nbsp;- Gianluca Guagliardo (Dev Team/Backend)
 
-&nbsp;&nbsp;&nbsp;-Hendrein Paul (Dev Team/Frontend)
+&nbsp;&nbsp;&nbsp;- Hendrein Paul (Dev Team/Frontend)
 
-&nbsp;&nbsp;&nbsp;-Mayte Ramirez-Calderon (Dev Team/Frontend)
+&nbsp;&nbsp;&nbsp;- Mayte Ramirez-Calderon (Dev Team/Frontend Lead)
 
-&nbsp;&nbsp;&nbsp;-Leon Rice III (Dev Team/Backend)
+&nbsp;&nbsp;&nbsp;- Leon Rice III (Dev Team/Backend Lead)
 
 # 9. Checklist
 For each item below you must answer with only one of the following: DONE, ON TRACK (meaning it will be done on time, and no issues perceived) or ISSUE (you have some problems, and then define what is the problem with 1-3 lines). Reflect these items in your Jira project space:
