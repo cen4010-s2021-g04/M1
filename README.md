@@ -219,22 +219,22 @@ Each team submits one single word document with all the above required sections 
 # 12.Grading criteria
 Your document needs to be well-written, well-organized (formatted) and reads well.  Grading is based on cohesiveness and completeness.
 
-&nbsp;&nbsp;&nbsp;1) Executive Summary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
+&nbsp;&nbsp;&nbsp;1) Executive Summary&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
 
-&nbsp;&nbsp;&nbsp;2) Competitive analysis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points	
+&nbsp;&nbsp;&nbsp;2) Competitive analysis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points	
 
-&nbsp;&nbsp;&nbsp;3) Data definition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points	
+&nbsp;&nbsp;&nbsp;3) Data definition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points	
 
-&nbsp;&nbsp;&nbsp;4) Overview, scenarios and use cases&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
+&nbsp;&nbsp;&nbsp;4) Overview, scenarios and use cases&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
 
 &nbsp;&nbsp;&nbsp;5) Initial list of high-level functional requirements&nbsp;&nbsp;&nbsp;10 points
 
-&nbsp;&nbsp;&nbsp;6) List of non-functional requirements&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
+&nbsp;&nbsp;&nbsp;6) List of non-functional requirements&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
 
-&nbsp;&nbsp;&nbsp;7) High-level system architecture&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
+&nbsp;&nbsp;&nbsp;7) High-level system architecture&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
 
-&nbsp;&nbsp;&nbsp;8) Team and checklist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
+&nbsp;&nbsp;&nbsp;8) Team and checklist&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
 
-&nbsp;&nbsp;&nbsp;9) Working with GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points	
+&nbsp;&nbsp;&nbsp;9) Working with GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points	
 
-&nbsp;&nbsp;&nbsp;10) Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
+&nbsp;&nbsp;&nbsp;10) Deliverable&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10 points
