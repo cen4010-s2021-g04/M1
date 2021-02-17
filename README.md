@@ -1,6 +1,7 @@
 <h1 align="center">Milestone 1: Team Project Proposal and Description</h1>
 <h2 align="center">Alpha Technologies, CalendarConnect, Group 4</h2>
-<h3 align="center"> Gianluca: gguagliardo2017@fau.edu; Leon: lrice2019@fau.edu; Mayte: mramirezcald2018@fau.edu; Hendrien: hpaul2017@fau.edu; Charlton: cbenting2019@fau.edu;</h3>
+<h3 align="center"> Gianluca: gguagliardo2017@fau.edu; Leon: lrice2019@fau.edu; Mayte: mramirezcald2018@fau.edu;</h3> 
+<h3 align="center">Hendrien: hpaul2017@fau.edu; Charlton: cbenting2019@fau.edu;</h3>
 
 
 ## 1. Executive Summary
