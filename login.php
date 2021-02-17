@@ -1,7 +1,4 @@
-<?php
-
-?>
-
+<?php ?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,6 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <meta name="google-signin-client_id" content="497690964418-49smdp6ee9obcv3b7ijm01tftu2k5o83.apps.googleusercontent.com" >
 
     <title>Calender Connect - Login</title>
 
@@ -66,9 +64,16 @@
                                             Login
                                         </a>
                                         <hr>
-                                        <a href="index.html" class="btn btn-google btn-user btn-block">
-                                            <i class="fab fa-google fa-fw"></i> Login with Google
-                                        </a>
+                                        <!---Google Sign in
+                                        <div class="g-signin2" data-width="345" data-height="35"></div>
+                                        --->
+                                        <div id="my-signin2"></div>
+
+                                        <div id="name"></div>
+                                        <script>startApp();</script>
+                                        <hr>
+                                        
+                                        <!--- Facebook Sign in--->
                                         <a href="index.html" class="btn btn-facebook btn-user btn-block">
                                             <i class="fab fa-facebook-f fa-fw"></i> Login with Facebook
                                         </a>
@@ -92,6 +97,11 @@
 
     </div>
 
+
+
+    <script src="https://apis.google.com/js/platform.js?onload=renderButton" async defer></script>
+
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
     <!-- Bootstrap core JavaScript-->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -100,7 +110,7 @@
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for all pages-->
-    <script src="js/custom-min.js"></script>
+    <script src="js/custom.js"></script>
 
 </body>
 

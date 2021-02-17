@@ -1,3 +1,4 @@
+/////////////////////////// Dashboard ///////////////////////////
 (function($) {
   "use strict"; // Start of use strict
 
@@ -54,3 +55,30 @@
   });
 
 })(jQuery); // End of use strict
+
+
+/////////////////////////// Google Sign in Button ///////////////////////////
+var buttonID = document.getElementById('my-signin2').id;
+
+// if successfully logs into google prints a message to the console
+function onSuccess(googleUser) {
+    console.log('Logged in as: ' + googleUser.getBasicProfile().getName());
+}
+        
+// if fails to log into google log an error with the console 
+function onFailure(error) {
+    console.log(error);
+}
+        
+// renders the google button 
+function renderButton() {
+    gapi.signin2.render(buttonID, {
+    'scope': 'profile email',
+    'width': 345,
+    'height': 50,
+    'longtitle': true,
+    'theme': 'dark',
+    'onsuccess': onSuccess,
+    'onfailure': onFailure
+    });
+}
