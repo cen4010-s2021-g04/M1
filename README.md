@@ -167,7 +167,7 @@ Initial Roles:
 
 - Charlton Benting (Dev Team/Backend)
 
-- Gianluca Guagliardo (Dev Team/Backend)
+- Gianluca Guagliardo (Project Lead/Dev Team/Backend)
 
 - Hendrein Paul (Dev Team/Frontend)
 
