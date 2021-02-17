@@ -27,7 +27,7 @@ Unlike most of our competitors, who are focused on enhancing the scheduling of b
 
 ## 3. Data definition
 
-**Database elements**: id, name, email, phone number, dob, password, registration date
+**Database elements**: id, firstname, lastname, email, phone number, dob, password, registration date
 
 **Maps/Dictionaries (Hashing)**: authentication of user information, database security (obfuscation)
 
