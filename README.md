@@ -139,7 +139,7 @@ For example, performance, usability, accessibility, expected load, security requ
 
 - Reliable and predictable behavior
 
-## 7. High-level system architecture:
+## 7. High-level system architecture
 
 **Languages**: CSS, Html, JavaScript, jQuery, json, ajax, MySQL
 
