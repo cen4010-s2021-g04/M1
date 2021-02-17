@@ -96,11 +96,11 @@ For example, performance, usability, accessibility, expected load, security requ
 
 **Usability**:
 
-- Must have color blind mode, and dark mode for customizability and user necessity.(colors customizable)
+- Must have color blind mode, and dark mode for customizability and user necessity (colors customizable)
 
-- Buttons must be large enough for users of all ages.(customizable)
+- Buttons must be large enough for users of all ages (customizable)
 
-- Calendars will also be customizable for user comfort.(size, color, location)
+- Calendars will also be customizable for user comfort (size, color, location)
 
 - Text will be customizable.
 
@@ -108,7 +108,7 @@ For example, performance, usability, accessibility, expected load, security requ
 
 - Stable website, no bugs or crashes
 
-- Website cannot crash from too many users online at once(sometimes its unavoidable)
+- Website cannot crash from too many users online at once (sometimes its unavoidable)
 
 - In case of outage there will be back-up generators to give time to inform the users of an outage and estimated server downtime.
 
@@ -118,11 +118,11 @@ For example, performance, usability, accessibility, expected load, security requ
 
 - Quick response time, low MS latency on clicks.
 
-- Smooth transitions(low MS and reactive movements)
+- Smooth transitions (low MS and reactive movements)
 
-- When pinging a user, the ping should be near instant.(notification, calendar requests, etc)
+- When pinging a user, the ping should be near instant (notification, calendar requests, etc)
 
-- Functional buttons, users should not have to click more than once to access anything on CalendarConnect. (hitboxes)
+- Functional buttons, users should not have to click more than once to access anything on CalendarConnect (hitboxes)
 
 **Supportability**:
 
@@ -145,11 +145,11 @@ For example, performance, usability, accessibility, expected load, security requ
 
 **API**: Open Weather API, Google Calendar API, Outlook API, iCloud API, Nylas API (potentially)
 
-**Browsers**: Chrome, Edge, Opera, Safari, Mozilla Firefox, and Android “Internet”.
+**Browsers**: Chrome, Edge, Opera, Safari, Mozilla Firefox, and Android “Internet”
 
 **Frameworks**: React.js, MongoDB (potentially), FullCalendar.js (potentially)
 
-All external code you plan to use must be listed along with their license. (Subject to change)
+All external code you plan to use must be listed along with their license (Subject to change)
 
 **Bootstrap**: https://github.com/twbs/bootstrap/blob/v4.0.0/LICENSE
 
